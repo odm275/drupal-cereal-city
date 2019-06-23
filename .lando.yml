@@ -1,0 +1,4 @@
+name: drupal-cereal-city
+recipe: drupal8
+config:
+  webroot: .
